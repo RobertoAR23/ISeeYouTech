@@ -1,0 +1,2 @@
+1. ¿Cómo bajarías cambios a un repo de git?
+abro la terminal, me coloco en el directorio del repositorio y hago un git pull y luego un git status para comprobar en caso de que este en ubuntu y no tener permisos necesarios usaría "sudo su git pull"
